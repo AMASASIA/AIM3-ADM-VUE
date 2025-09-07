@@ -1,0 +1,1 @@
+<template><div>Video Chat</div></template>
